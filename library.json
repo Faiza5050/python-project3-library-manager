@@ -1,0 +1,30 @@
+[
+    {
+        "title": "my book 2000",
+        "author": "Ari",
+        "year": 1800,
+        "genre": "House",
+        "read_status": true
+    },
+    {
+        "title": "my library",
+        "author": "fai",
+        "year": 2025,
+        "genre": "my",
+        "read_status": true
+    },
+    {
+        "title": "faiza",
+        "author": "Fai",
+        "year": 2025,
+        "genre": "Mys",
+        "read_status": false
+    },
+    {
+        "title": "my home",
+        "author": "maha",
+        "year": 2025,
+        "genre": "home",
+        "read_status": false
+    }
+]
